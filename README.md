@@ -2,7 +2,7 @@
 
 <h3 align="center">An Aspiring Full-Stack JavaScript Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyjedy&label=Profile%20views&color=0e75b6&style=flat" alt="geekyjedy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=geekyjedy&label=Profile%20views&color=0e75b6&style=flat" alt="geekyjedy" /> </p>
 
 ---
 <h3 align="left">Connect with me:</h3>
