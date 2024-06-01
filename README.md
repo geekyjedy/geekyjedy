@@ -11,4 +11,4 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=geekyjedy&theme=dark&border_radius=8.9&locale=gu&date_format=j%20M%5B%20Y%5D&card_width=695&fire=EBDC0B)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=geekyjedy&theme=dark&border_radius=8.9&locale=gu&date_format=j%20M%5B%20Y%5D&card_width=720&fire=EBDC0B)](https://git.io/streak-stats)
